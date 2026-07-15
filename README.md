@@ -20,10 +20,10 @@ This project performs real-time object detection and tracking on videos using th
 ## Project Structure
 
 CodeAlpha_Task3/
-│── object_detection_tracking.ipynb
-│── input_video.mp4
-│── output_video.avi
-│── README.md
+   object_detection_tracking.ipynb
+   input_video.mp4
+   output_video.avi
+   README.md
 
 
 ## Installation
